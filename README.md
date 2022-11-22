@@ -37,7 +37,6 @@ Of course, your needs for a food application may differ from this project:smile:
 
 Use the `README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -63,7 +62,6 @@ _Before using and compiling app. You need to do the following steps:_
    const val BASE_URL_IMAGE = "Your Images URL"
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -73,5 +71,4 @@ Amir Kordlu - [@Linkedin](https://www.linkedin.com/in/amirmohammad-kordlu/) - am
 
 Project Link: [https://github.com/amirkordlu/FoodyApp](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
